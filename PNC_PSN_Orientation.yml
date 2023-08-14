@@ -1,0 +1,14 @@
+name: PNC_PSN_Orientation
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - jupyter
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - scikit-learn
+  - tensorflow
+  - pip
+  - pip:
