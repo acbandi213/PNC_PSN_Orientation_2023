@@ -9,6 +9,6 @@ Installation instructions for the anaconda environment:
 3. Open terminal/command prompt (base environment)
 4. cd into the saved location of this repository
 5. conda env create -f PNC_PSN_Orientation.yml
-6. conda activate PNC_PSN_Orientation.yml
+6. conda activate PNC_PSN_Orientation
 
 To view the intro to python jupyter notebook, type  'jupyter notebook' in the command prompt for the activated PNC_PSN_Orientation environment
