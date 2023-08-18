@@ -3,8 +3,8 @@
 # numpy version 1.21.6
 # sklearn version 1.0.2
 # scipy version 1.7.3
-# tensorflow version 2.8.2
-# keras version 2.8.0
+# tensorflow version 2.10.0
+# keras version 2.10.0
 # matplotlib version 3.2.2
 
 ## Written and tested by Akhil Bandi from the Runyan Lab at The University of Pittsburgh. This code is based on code initially written by Shih-Yi Tseng from the Harvey Lab at Harvard Medical School. Last updated: 2023/07/27
