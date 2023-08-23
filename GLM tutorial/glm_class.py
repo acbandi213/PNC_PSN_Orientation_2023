@@ -1,4 +1,4 @@
-## This script contains the GLM class definitions and utility functions for fitting generalized linear models (GLM) with Tnesorflow 2. It was developed with the following:
+## This script contains the GLM class definitions and utility functions for fitting generalized linear models (GLM) with Tensorflow 2. It was developed with the following:
 
 # numpy version 1.21.6
 # sklearn version 1.0.2
@@ -16,13 +16,13 @@ import time
 import numpy as np
 import scipy.stats
 from scipy.linalg import block_diag
-import tensorflow as tf
+import tensorflow as tf     
 from sklearn.model_selection import KFold, GroupKFold
 import matplotlib
 import matplotlib.pyplot as plt
 
 
-#### GLM class ####
+#### GLM class #### 
 
 class GLM:
     def __init__(self, activation = 'exp', loss_type = 'poisson', 
