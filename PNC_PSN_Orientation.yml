@@ -9,7 +9,6 @@ dependencies:
   - matplotlib
   - scipy
   - scikit-learn
-  - tensorflow
-  - mne 
+  - tensorflow 
   - pip
   - pip:
